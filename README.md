@@ -2,7 +2,7 @@ Install the following libraries:
 pip install pandas numpy scikit-learn matplotlib seaborn streamlit
 
 
-### 1. Download the dataset
+### Download the dataset
 Go to Kaggle and download the IPL Complete Dataset:
 
 ```
